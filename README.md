@@ -23,32 +23,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRCatarino&layout=compact&langs_count=6&theme=tokyonight"/>
 <div/>
 
-### 📊 Estatísticas Detalhadas
 
-- ⭐ **Total Stars Earned:** 3
-- 💻 **Total Commits (2025):** 5  
-- 🔄 **Total PRs:** 11
-- 🐛 **Total Issues:** 0
-- 🏆 **Contributed to (last year):** 1
-
----
-
-## 💻 Linguagens Mais Utilizadas
-
-<div align="center">
-  
-| Linguagem | Percentual |
-|-----------|------------|
-| 🟡 **JavaScript** | 38.18% |
-| 🟣 **CSS** | 21.38% |
-| 🟢 **SCSS** | 17.83% |
-| 🔵 **Less** | 17.11% |
-| 🔴 **HTML** | 5.24% |
-| 🟦 **TypeScript** | 0.27% |
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
