@@ -1,11 +1,7 @@
 <div align="center">
-  #<img src="https://readme-typing-svg.herokuapp.com/?color=f75c7e&size=35&center=true&vCenter=true&width=1000&lines=Paulo+aqui+!+👋;Desenvolvedor+apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=f75c7e&size=35&center=true&vCenter=true&width=1000&lines=Olá+Paulo+aqui+!+👋+Seja+Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!+📚" alt="Typing SVG" />
 </div>
-Olá, Paulo aqui! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=f75c7e&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+🚀;Desenvolvedor+apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!+📚" alt="Typing SVG" />
-</div>
 
 ---
 
