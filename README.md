@@ -18,12 +18,16 @@
 ## ⚙️ GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloCarino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCarino&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloCarino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Paulo's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCarino&layout=compact&langs_count=7&theme=tokyonight" alt="Paulo's Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloCarino&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloCarino&theme=tokyonight" alt="Paulo's GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloCarino&theme=tokyo-night&hide_border=true" alt="Paulo's Contribution Graph"/>
 </div>
 
 ### 📊 Estatísticas Detalhadas
