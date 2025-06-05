@@ -1,42 +1,109 @@
+# Olá, Paulo aqui! 👋
 
-<img align="right" height="300px" src="(https://user-images.githubusercontent.com/77987835/185279150-96c3b5bc-abbb-40bf-ba54-b4b7f22228d7.png/">
-<h1 align="left">Olá, Paulo aqui! 👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRCatarinoo&color=blue" alt="Profile views" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=f75c7e&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil!+🚀;Desenvolvedor+apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo!+📚" alt="Typing SVG" />
+</div>
 
-<br><br>
+---
 
-## ⚙️ &nbsp;GitHub Analytics
+## 🚀 Sobre mim
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=PRCatarino&show_icons=true&theme=vision-friendly-dark" alt="paulo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRCatarino&layout=compact&theme=vision-friendly-dark" alt="paulo's most languages"/>
-</p>
+🎯 Desenvolvedor em constante evolução, apaixonado por criar soluções inovadoras  
+💻 Focado em desenvolvimento web e tecnologias modernas  
+📚 Sempre em busca de novos conhecimentos e desafios  
+🌟 Acredito no poder da colaboração e do código aberto  
 
-<br><br>
+---
 
-## 🛠 &nbsp;Tech Stack
+## ⚙️ GitHub Analytics
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloCarino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloCarino&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<br><br>
-## 👨 &nbsp;Social Links
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PauloCarino&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-<p align="left" style="background:yellow">
-<a href="https://twitter.com/PauloRobertoNC1" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-PRCatarino-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://www.linkedin.com/in/paulo-catarino/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-PRCatarino-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/paulonazarino/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-PRCatarino-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+### 📊 Estatísticas Detalhadas
 
-</p>
+- ⭐ **Total Stars Earned:** 3
+- 💻 **Total Commits (2025):** 5  
+- 🔄 **Total PRs:** 11
+- 🐛 **Total Issues:** 0
+- 🏆 **Contributed to (last year):** 1
+
+---
+
+## 💻 Linguagens Mais Utilizadas
+
+<div align="center">
+  
+| Linguagem | Percentual |
+|-----------|------------|
+| 🟡 **JavaScript** | 38.18% |
+| 🟣 **CSS** | 21.38% |
+| 🟢 **SCSS** | 17.83% |
+| 🔵 **Less** | 17.11% |
+| 🔴 **HTML** | 5.24% |
+| 🟦 **TypeScript** | 0.27% |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### **Linguagens & Frameworks**
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)
+
+### **Ferramentas & Tecnologias**
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=for-the-badge&logo=sass)
+![Less](https://img.shields.io/badge/-Less-05122A?style=for-the-badge&logo=less)
+
+---
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/PauloCarino)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PauloCarino)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://PauloCarino.dev)
+
+</div>
+
+---
+
+## 🎯 Objetivos 2025
+
+- [ ] 🚀 Contribuir para mais projetos open source
+- [ ] 📚 Aprender novas tecnologias (Next.js, Docker)
+- [ ] 🌟 Alcançar 50+ stars nos repositórios
+- [ ] 💼 Desenvolver projetos pessoais inovadores
+- [ ] 🤝 Colaborar com outros desenvolvedores
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PauloCarino&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  
+  ### 💭 _"Code is poetry written in logic"_ ✨
+  
+  ⭐ **Se você gostou dos meus projetos, deixe uma estrela!** ⭐
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github.com/PauloCarino/PauloCarino/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
