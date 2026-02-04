@@ -19,15 +19,12 @@
 ## ⚙️ GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/PRCatarino">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PRCatarino&show_icons=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&bg_color=0a0a0a" alt="PRCatarino github stats"/> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRCatarino&layout=compact&hide_border=true&title_color=00e5ff&text_color=ffffff&bg_color=0a0a0a"/>
-  </a>
-</div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=PRCatarino&theme=dark&hide_border=true&background=0a0a0a&stroke=00e5ff&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" />
-</div>
+  <a href="https://github.com/PRCatarino"/>
+    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRCatarino&show_icons=true&layout=compact&langs_count=16&theme=dracula" alt="PRCAtarino github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRCAtarino&layout=compact&langs_count=16&theme=dracula" />
+    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRCatarino&show_icons=true&layout=compact&langs_count=16&theme=dracula" alt="PRCAtarino github stats"/> 
+    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRCAtarino&layout=compact&langs_count=16&theme=dracula"/>
+<div/>
 
 ---
 
