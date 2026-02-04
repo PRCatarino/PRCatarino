@@ -19,9 +19,10 @@
 ## ⚙️ GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/PRCatarino"/>
+  <a href="https://github.com/PRCatarino">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PRCatarino&show_icons=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=ffffff&bg_color=0a0a0a" alt="PRCatarino github stats"/> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRCatarino&layout=compact&hide_border=true&title_color=00e5ff&text_color=ffffff&bg_color=0a0a0a"/>
+  </a>
 </div>
 
 <div align="center">
