@@ -20,8 +20,8 @@
 
 <div align="center">
   <a href="https://github.com/PRCatarino"/>
-    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRCatarino&show_icons=true&layout=compact&langs_count=16&theme=dracula" alt="PRCAtarino github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRCAtarino&layout=compact&langs_count=16&theme=dracula" />
+    <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PRCatarino&show_icons=true&layout=compact&langs_count=16&theme=dark" alt="PRCAtarino github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PRCAtarino&layout=compact&langs_count=16&theme=dark" />
 <div/>
 
 ---
